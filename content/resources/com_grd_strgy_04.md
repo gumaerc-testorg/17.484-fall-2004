@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 470f0ca2-7f66-2733-b581-dec7d448a419
 resourcetype: Document
 title: Comparative Grand Strategy and Military Doctrine
 uid: 991e5586-5dc1-0aa3-8f06-1014cb0c4994

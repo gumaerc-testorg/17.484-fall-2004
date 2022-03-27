@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 470f0ca2-7f66-2733-b581-dec7d448a419
 resourcetype: Document
 title: Military Organizations, the Business of War, and what it means for Innovation
 uid: 1ce39cb3-67c5-bf62-bbe0-c9857d4a3b1f

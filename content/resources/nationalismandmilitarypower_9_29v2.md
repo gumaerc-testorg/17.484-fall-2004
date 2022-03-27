@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 470f0ca2-7f66-2733-b581-dec7d448a419
 resourcetype: Document
 title: Nationalism and Military Power / Nationalism and Expansionism
 uid: b9475bdf-f785-75d9-f8da-07747bbeeaea
