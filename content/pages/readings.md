@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings by class session and a bibliography
+  of fully cited required and recommended readings used in this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
