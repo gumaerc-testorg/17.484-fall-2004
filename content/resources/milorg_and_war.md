@@ -6,6 +6,7 @@ file: /courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Military Organizations, the Business of War, and what it means for Innova
 uid: 1ce39cb3-67c5-bf62-bbe0-c9857d4a3b1f
 ---
 Lecture outline on military organizations, the business of war, and what it means for innovation.
-
