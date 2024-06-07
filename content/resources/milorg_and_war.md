@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture outline on military organizations, the business of war, and what
   it means for innovation.
 file: /courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/1ce39cb367c5bf62bbe0c9857d4a3b1f_milorg_and_war.pdf
+file_size: 139968
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
