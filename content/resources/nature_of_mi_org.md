@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture outline on the nature of military organizations and their impact
   on national strategy.
-file: /ol-ocw-studio-app/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/64d7924aa80751e6218dc0741a65ca66_nature_of_mi_org.pdf
+file: /courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/64d7924aa80751e6218dc0741a65ca66_nature_of_mi_org.pdf
 file_size: 291043
 file_type: application/pdf
 learning_resource_types:

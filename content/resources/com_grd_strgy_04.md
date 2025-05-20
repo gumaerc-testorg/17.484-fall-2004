@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An overview of the course and an introduction to the course topics.
-file: /ol-ocw-studio-app/courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/991e55865dc10aa38f061014cb0c4994_com_grd_strgy_04.pdf
+file: /courses/17-484-comparative-grand-strategy-and-military-doctrine-fall-2004/991e55865dc10aa38f061014cb0c4994_com_grd_strgy_04.pdf
 file_size: 131446
 file_type: application/pdf
 learning_resource_types:
